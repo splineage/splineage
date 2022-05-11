@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
+<div>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
+</div>
 <!--
 **splineage/splineage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
