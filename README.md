@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api?username=splineage&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=splineage&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-dye43xcj4-splineage.vercel.app/api?username=splineage&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://readme-stats-dye43xcj4-splineage.vercel.app/api?username=splineage&show_icons=true&theme=radical)
