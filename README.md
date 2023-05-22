@@ -32,6 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://readme-stats-qiaw2khv8-splineage.vercel.app/api/top-langs/?username=splineage&layout=compact&theme=transparent)
-![Anurag's GitHub stats](https://readme-stats-qiaw2khv8-splineage.vercel.app/api/?username=splineage&show_icons=true&theme=transparent&count_private=true)
-
-
+![Anurag's GitHub stats](https://readme-stats-qiaw2khv8-splineage.vercel.app/api?username=splineage&show_icons=true&theme=transparent&count_private=true)
